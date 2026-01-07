@@ -1,28 +1,23 @@
 # Aprendizaje Automático
 Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt Publishing, 2020.
 
-## [Capitulo 1: Introducción a la ciencia de datos en Python](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/01_introduccionCienciaDatos.ipynb)
-* Creación y manipulación de diferentes tipos de variables de Python, incluyendo variables principales, listas y diccionarios.
-* Importación de paquetes de Python y carga de datos en diferentes formatos usando Pandas.
-* Primer acercamiento al entrenamiento de un modelo usando scikit-learn.
-
-## [Capitulo 2: Regresión](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/02_regresion.ipynb)
+## [Regresión](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/02_regresion.ipynb)
 * Uso de Pandas para cargar un conjunto de datos y prepararlo para el análisis de regresión.
 * Creación de un diagrama de dispersión de datos bivariados.
 * Uso de los métodos disponibles en el módulo Statsmodels para ajustar un modelo de regresión a un conjunto de datos.
 * Evaluación de la bondad del ajuste de un modelo de regresión lineal.
 
-## [Capitulo 3: Clasificación Binaria](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/03_clasificacionBinaria.ipynb)
+## [Clasificación Binaria](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/03_clasificacionBinaria.ipynb)
 * Formulación del planteamiento de un problema de ciencia de datos desde una perspectiva empresarial.
 * Formulación de hipótesis a partir de diversos impulsores de negocio que influyen en un caso de uso y verificación mediante análisis exploratorio de datos.
 * Derivación de características basadas en intuiciones derivadas del análisis exploratorio mediante ingeniería de características.
 * Construcción de modelos de clasificación binaria utilizando una función de regresión logística y análisis de métricas de clasificación.
 
-## [Capítulo 4: Clasificación Multiclase con RandomForest](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/04_clasificacionMulticlase_BosqueAleatorio.ipynb)
+## [Clasificación Multiclase con RandomForest](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/04_clasificacionMulticlase_BosqueAleatorio.ipynb)
 * Implementación de un clasificador de *Bosque Aleatorio*.
 * Ajuste de hiperparámetros para mejorar el rendimiento del modelo.
 
-## [Capítulo 5: Análisis de Agrupamiento](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/05_analisisAgrupamiento.ipynb)
+## [Análisis de Agrupamiento](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/05_analisisAgrupamiento.ipynb)
 * Implementación del algoritmo de aprendizaje no supervisado *k-medias*.
 * Estandarización y procesamiento de datos para su uso en el análisis de grupos.
 * Visualización de los datos agrupados con diagramas de dispersión.
