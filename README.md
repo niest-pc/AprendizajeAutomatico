@@ -1,12 +1,12 @@
 # Aprendizaje Automático
 Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt Publishing, 2020.
 
-## Capitulo 1: Introducción a la ciencia de datos en Python
+## [Capitulo 1: Introducción a la ciencia de datos en Python](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/01_introduccionCienciaDatos.ipynb)
 * Creación y manipulación de diferentes tipos de variables de Python, incluyendo variables principales, listas y diccionarios.
 * Importación de paquetes de Python y carga de datos en diferentes formatos usando Pandas.
 * Primer acercamiento al entrenamiento de un modelo usando scikit-learn.
 
-## Capitulo 2: Regresión
+## [Capitulo 2: Regresión](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/02_regresion.ipynb)
 * Uso de Pandas para cargar un conjunto de datos y prepararlo para el análisis de regresión.
 * Creación de un diagrama de dispersión de datos bivariados.
 * Uso de los métodos disponibles en el módulo Statsmodels para ajustar un modelo de regresión a un conjunto de datos.
