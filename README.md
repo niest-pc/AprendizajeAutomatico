@@ -12,17 +12,17 @@ Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt P
 * Uso de los métodos disponibles en el módulo Statsmodels para ajustar un modelo de regresión a un conjunto de datos.
 * Evaluación de la bondad del ajuste de un modelo de regresión lineal.
 
-## Capitulo 3: Clasificación Binaria
+## [Capitulo 3: Clasificación Binaria](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/03_clasificacionBinaria.ipynb)
 * Formulación del planteamiento de un problema de ciencia de datos desde una perspectiva empresarial.
 * Formulación de hipótesis a partir de diversos impulsores de negocio que influyen en un caso de uso y verificación mediante análisis exploratorio de datos.
 * Derivación de características basadas en intuiciones derivadas del análisis exploratorio mediante ingeniería de características.
 * Construcción de modelos de clasificación binaria utilizando una función de regresión logística y análisis de métricas de clasificación.
 
-## Capítulo 4: Clasificación Multiclase con RandomForest
+## [Capítulo 4: Clasificación Multiclase con RandomForest](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/04_clasificacionMulticlase_BosqueAleatorio.ipynb)
 * Implementación de un clasificador de Bosque Aleatorio.
 * Ajuste de hiperparámetros para mejorar el rendimiento del modelo.
 
-## Capítulo 5: Realizando Primer Análisis de Agrupamiento
+## [Capítulo 5: Realizando Primer Análisis de Agrupamiento](https://colab.research.google.com/github/niest-pc/Ejercicios-Ciencia_de_Datos/blob/main/05_analisisAgrupamiento.ipynb)
 * Implementación del algoritmo de aprendizaje no supervisado k-medias.
 * Estandarización y procesamiento de datos para su uso en el análisis de grupos.
 * Visualización de los datos agrupados con diagramas de dispersión.
